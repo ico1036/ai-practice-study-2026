@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/appearance.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Personal
+**/private/
+**/draft/
