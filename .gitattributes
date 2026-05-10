@@ -1,0 +1,4 @@
+# wiki/log.md와 wiki/index.md는 append 패턴이므로 union merge 전략 사용
+# (두 브랜치의 변경을 모두 포함, 순서는 git이 결정)
+wiki/log.md merge=union
+wiki/index.md merge=union

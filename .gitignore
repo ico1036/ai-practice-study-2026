@@ -12,6 +12,6 @@ Thumbs.db
 *.swp
 *~
 
-# Personal
+# Personal scratch (truly private, not committed)
 **/private/
 **/draft/
